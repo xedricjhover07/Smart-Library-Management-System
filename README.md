@@ -8,7 +8,11 @@ Project Modules
 - Book Returning
 - Inventory Management
 - Reports
+
 Development Team
+
 Student Name:
+
 Course:
+
 Section:
