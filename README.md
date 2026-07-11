@@ -24,3 +24,8 @@ Features
 add change
 
 _Last updated during GitHub Actions laboratory.
+
+Contributor Name: 
+
+Feature Added:
+- Digital Library Dashboard
